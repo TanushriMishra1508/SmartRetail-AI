@@ -95,6 +95,21 @@ The following visualizations are generated and saved in the `reports` folder:
 
 ---
 
+## 📸 Project Screenshots
+
+### Sales by Category
+
+![Sales by Category](reports/sales_by_category.png)
+
+### Profit by Region
+
+![Profit by Region](reports/profit_by_region.png)
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](reports/monthly_sales_trend.png)
+
+
 ## ▶️ How to Run
 
 ### 1. Clone the repository
