@@ -141,4 +141,4 @@ B.Tech Computer Science & Engineering (2024–2028)
 
 Aspiring Data Analyst | Python | SQL | Data Analytics | AI & Cloud Computing
 
-GitHub: https://github.com/TanushriMishra1508
+GitHub: [TanushriMishra1508](https://github.com/TanushriMishra1508)
