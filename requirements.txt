@@ -1,8 +1,2 @@
 pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-plotly
-streamlit
-openpyxl
+matplotlib 
